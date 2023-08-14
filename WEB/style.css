@@ -1,0 +1,13 @@
+p {
+    font-size: 1.25em;
+    /* 40px/16=2.5em */
+    font-family: "Gotham", Times;
+  }
+
+h1{display: flex;justify-content: center;}
+
+.card{border-radius: 1rem;}
+img{
+    border-top-right-radius:1rem;
+    border-top-left-radius:1rem;
+}
